@@ -13,5 +13,5 @@ I'm David (He/Him) and I live in Chicago where I play music, make cheese art and
 <br>
 <br>
 
-<p align=center><a href="hhttps://ko-fi.com/drogres" target="_blank"><img width=30% src="https://ko-fi.com/img/githubbutton_sm.svg" /></a></p>
+<p align=center><a href="https://ko-fi.com/drogres" target="_blank"><img width=30% src="https://ko-fi.com/img/githubbutton_sm.svg" /></a></p>
 
