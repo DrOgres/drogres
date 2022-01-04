@@ -1,5 +1,5 @@
 ### Howdy 👋
-I'm David (He/Him) and I live in Chicago where I play music, make cheese art and code.
+I'm David (He/Him) and I live in Chicago where I play music, make cheese, art and code.
 
 🔭 I’m currently working on Systems for Foundry VTT specifically Tales From the Loop and Vaesen. I also help where I can with the Free League Developer Community https://github.com/fvtt-fria-ligan
 
