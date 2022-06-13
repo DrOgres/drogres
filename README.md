@@ -11,5 +11,5 @@ I also do freelance web dev and other programming.
 
 
 
-
+<p align=center><a href="https://ko-fi.com/drogres" target="_blank"><img width=30% src="https://ko-fi.com/img/githubbutton_sm.svg" /></a></p>
 
