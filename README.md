@@ -6,10 +6,9 @@ I'm David (He/Him) some folks call me Dr.Ogres (🔍david rogers... d rogers... 
 I also do freelance web dev and other programming.
 
 💬 Ask me about cheese or math rock.
-<!--
-**DrOgres/drogres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 
 <p align=center><a href="https://ko-fi.com/drogres" target="_blank"><img width=30% src="https://ko-fi.com/img/githubbutton_sm.svg" /></a></p>
+
+
+
 
