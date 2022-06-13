@@ -10,10 +10,6 @@ I also do freelance web dev and other programming.
 **DrOgres/drogres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-<!-- The stat card below is made with https://github.com/anuraghazra/github-readme-stats -->
-<p align=center><img align=centre width=50% src="https://github-readme-stats.vercel.app/api?username=drogres&count_private=true&show_icons=true&theme=nord" /></p>
-<br>
-<br>
 
 
 
